@@ -34,10 +34,10 @@ I am Bagus, a Junior Data Scientist <img src="https://media.giphy.com/media/WUlp
 
 ---
 
+### :rocket: Social Media :
 <div id="badges" align="">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/bagushakimid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=bagushakim-id&style=flat-square&color=blue" alt=""/>
