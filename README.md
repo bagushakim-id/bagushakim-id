@@ -32,12 +32,3 @@ I am Bagus, a Junior Data Scientist <img src="https://media.giphy.com/media/WUlp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagushakim-id&layout=compact&theme=vision-friendly-dark)](https://github.com/bagushakim-id/github-readme-stats)
 
----
-
-### :rocket: Social Media :
-<div id="badges" align="">
-  <a href="https://www.linkedin.com/in/bagushakimid/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=bagushakim-id&style=flat-square&color=blue" alt=""/>
