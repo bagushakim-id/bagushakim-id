@@ -7,7 +7,7 @@ I am a Junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 🎓 &nbsp;I'm recently graduate from Logistic Engineering at the Universitas Internasional Semen Indonesia and Full Stack Data Science at Hacktiv8.\
 🌱 &nbsp;I'm on track for learning more about Data Engineer and Dashboard Visualization with Power BI.\
 💬 &nbsp;Feel free to reach out to me for collaborating and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at bagustirtaa@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at bagustirtaa@gmail.com! I'll try to respond as soon as I can.
 
 ---
 
