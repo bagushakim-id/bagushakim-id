@@ -14,7 +14,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Languanges and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
@@ -24,14 +24,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### :fire: My Stats :
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagushakim-id&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bagushakim-id&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
