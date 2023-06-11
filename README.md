@@ -29,8 +29,7 @@ I am a Junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bagushakim-id&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagushakim-id)](https://github.com/bagushakim-id/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagushakim-id&layout=compact&theme=vision-friendly-dark)](https://github.com/bagushakim-id/github-readme-stats)
 
 <div id="badges">
   <a href="your-linkedin-URL">
