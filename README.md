@@ -32,6 +32,12 @@ I am a Junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagushakim-id&layout=compact&theme=vision-friendly-dark)](https://github.com/bagushakim-id/github-readme-stats)
 
+---
+
+<div id="header" align="center">
+  <img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" width="100"/>
+</div>
+
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
