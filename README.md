@@ -1,8 +1,8 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Bagus</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!\</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am a Junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am Bagus, a Junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
 🎓 &nbsp;I'm recently graduate from Logistic Engineering at the Universitas Internasional Semen Indonesia and Full Stack Data Science at Hacktiv8.\
 🌱 &nbsp;I'm on track for learning more about Data Engineer and Dashboard Visualization with Power BI.\
@@ -34,7 +34,7 @@ I am a Junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-<div id="badges" align="center">
+<div id="badges" align="">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
