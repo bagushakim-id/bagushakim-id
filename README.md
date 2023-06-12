@@ -1,5 +1,3 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!</h2>
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 I am Bagus, a Junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia. I'm on track for learning more about Machine Learning, Deep Learning, Data Engineer, and Dashboard Visualization with Power BI.
